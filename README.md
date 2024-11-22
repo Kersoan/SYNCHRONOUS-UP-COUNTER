@@ -1,4 +1,4 @@
-### SYNCHRONOUS-UP-COUNTER
+### EX-11-SYNCHRONOUS-UP-COUNTER
 
 **AIM:**
 
@@ -42,9 +42,9 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 Program for flipflops and verify its truth table in quartus using Verilog programming. 
 
-Developed by : Javith farkhan S
+Developed by : KERSOAN P
 
-RegisterNumber : 212221240017
+RegisterNumber : 212221230050
 
 ```
 module ex11(out,clk,rstn);
